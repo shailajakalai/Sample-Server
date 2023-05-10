@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gravity.sample</groupId>
+    <groupId>com.das</groupId>
     <artifactId>sample-server</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>Sample Server</name>
 
     <scm>
-        <connection>scm:git:https://github.com/shayantabatabaee/NodeJs.git</connection>
-        <developerConnection>scm:git:https://github.com/shayantabatabaee/NodeJs.git</developerConnection>
+        <connection>scm:git:https://github.com/shailajakalai/codedeploydemo.git</connection>
+        <developerConnection>scm:git:https://github.com/shailajakalai/codedeploydemo.git</developerConnection>
     </scm>
 
     <build>
