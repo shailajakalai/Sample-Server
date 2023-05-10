@@ -2,20 +2,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.robmazan</groupId>
-	<artifactId>maven-nodejs-sample</artifactId>
-	<name>Maven-NodeJS integration sample</name>
-	<url>https://github.com/robmazan/maven-nodejs-sample/</url>
+	<groupId>com.github.</groupId>
+	<artifactId>codedeploydemo</artifactId>
+	<name>codedeploydemo</name>
+	<url>https://github.com/shailajakalai/codedeploydemo.git</url>
 	<description>Sample project to show how to use NodeJS modules in Maven builds.</description>
 	<packaging>war</packaging>
 	<version>1.0.0-SNAPSHOT</version>
 	<scm>
-		<url>https://github.com/robmazan/maven-nodejs-sample/</url>
-		<connection>scm:git:https://github.com/robmazan/maven-nodejs-sample.git</connection>
-		<developerConnection>scm:git:https://github.com/robmazan/maven-nodejs-sample.git</developerConnection>
+		<url>https://github.com/shailajakalai/codedeploydemo.git</url>
+		<connection>scm:git:https://github.com/shailajakalai/codedeploydemo.git</connection>
+		<developerConnection>scm:git:https://github.com/shailajakalai/codedeploydemo.git</developerConnection>
 	</scm>
 	<issueManagement>
-		<url>https://github.com/robmazan/maven-nodejs-sample/issues</url>
+		<url>https://github.com/shailajakalai/codedeploydemo.git</url>
 	</issueManagement>
 	<properties>
 		<java-version>1.6</java-version>
